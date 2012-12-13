@@ -1,0 +1,228 @@
+body{
+background-image: url('http://i24.photobucket.com/albums/c39/youngbutcute07/mountut1-bkg.jpg');
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+h1{
+color: #B8B8B8;
+}
+
+#weekTitle{
+color: #FFFFFF;
+}
+
+a{
+text-decoration:none;
+color: #000000;
+}
+
+a:hover{
+color:#FF0000;
+text-decoration:underline;
+}
+
+
+
+p{
+color: #000033;
+}
+#logo{
+border-style:solid;
+border-width:5px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+}
+
+ul{
+list-style-type: none;
+}
+
+#nativeTitle{
+margin-left:10px;
+}
+
+#appDroid{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+}
+
+#jsonTitle{
+margin-left:10px;
+}
+
+#apiBtn{
+margin-top: 20px;
+margin-bottom: 20px;
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+}
+
+button:hover{
+    background-color:#FF0000;
+}
+
+button{
+margin-left:10px;
+margin-bottom: 20px;
+width:70px;
+height:70px;
+box-shadow: 10px 10px 5px #888888;
+}
+
+
+
+#rdTitle{
+margin-left:10px;
+}
+
+#researchDis{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+}
+
+#discuss1{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+}
+
+.tweetsIn{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+margin-bottom: 10px;
+}
+
+.tvIn{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #D0D0D0;
+opacity: 0.6;
+margin-bottom: 10px;
+}
+
+#showImg{
+height: 70px;
+width: 70px;
+float: left;
+padding-right: 5px;
+}
+
+#tweetImg{
+height: 70px;
+width: 70px;
+float: left;
+padding-right: 5px;
+}
+
+#descript{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#D0D0D0;
+background: #000000;
+opacity: 0.6;
+margin-bottom: 10px;
+margin-right: 40px;
+margin-left: 40px;
+}
+
+#descriptTxt{
+color:#ffffff;
+}
+
+#homeBtn{
+float:right;
+}
+
+#h2Title{
+background:#6B4700;
+color: #FFFFFF;
+border-style:solid;
+border-color:#472400;
+}
+
+#con{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-color:#E6B88A;
+background: #E6B88A;
+margin-bottom: 30px;
+margin-right: 400px;
+margin-left: 40px;
+
+}
+
+h4{
+color: #0000CC; 
+text-decoration:blink;
+}
+
+#sN{
+color: #FF6666;
+font-style:italic;
+font-style:bold;
+}
+
+#fullName{
+font-style:italic;
+color: #ffffff;
+font-variant:small-caps;
+}
+
+#date{
+font-style:italic;
+color: #ffffff;
+}
+
+#tweeted{
+font-style:italic;
+font-style:bold;
+color: #CCFFFF;
+}
+
+.heHere{
+border-style:solid;
+border-width:2px;
+box-shadow: 10px 10px 5px #000000;
+border-radius:25px;
+border-color:#4D4D77;
+background: #4D4D77;
+}
+
+#tacts{
+font-size:14px;
+color: #CCFFFF;
+}
